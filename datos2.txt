@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola soy morro
+=======
+Yo soy Julia , como estas?
+>>>>>>> ideas
